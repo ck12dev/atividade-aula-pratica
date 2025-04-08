@@ -1,2 +1,7 @@
 atividade aula prática de gestão de qualidade de software
+
 nova branch criada
+=======
+
+ck
+
